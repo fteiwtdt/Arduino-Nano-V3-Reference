@@ -6,7 +6,7 @@ These Eagle project files were downloaded from [arduino.cc](https://arduino.cc) 
 - Open Eagle, then "Open"->"Text..." to select NanoV3.3.sch file from the unzipped folder.
 - Saving after "find-and-replace".
 
-![screen shot](./screen shot.png)
+![Screenshot](screenshot.png)
 
 Tested on Eagle 9.6.2.
 
